@@ -1,0 +1,7 @@
+#define 
+add two numbers
+var a = 2;
+var b =3;
+var z =x + y;
+print(z);
+endif
